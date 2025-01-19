@@ -1,0 +1,9 @@
+Traffic Analysis Report
+=======================
+
+Captured Traffic Statistics:
+Other: 9 packets
+TCP: 83 packets
+UDP: 6 packets
+
+Captured Packets:
